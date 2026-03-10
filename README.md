@@ -24,12 +24,8 @@ Tenho experiência em **modelagem de dados, desenvolvimento de consultas SQL com
 
 📊 **Objetivo:** transformar dados em **informações estratégicas para melhorar a gestão e a qualidade dos serviços de saúde**.
 
----
 
-# 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusleite1811/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheus.leite1811@gmail.com)
 
 ---
 # 💫 About Me:
