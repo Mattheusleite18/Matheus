@@ -1,24 +1,115 @@
 # 💫 About Me:
-💻 Analista de Dados com foco em saúde e gestão hospitalar.<br><br>Atuo no desenvolvimento de soluções de dados voltadas para apoio à tomada de decisão em ambientes hospitalares. Tenho experiência em modelagem e análise de dados clínicos e administrativos, criação de consultas SQL complexas, desenvolvimento de dashboards e automação de processos.<br><br>🔎 Principais áreas de atuação:<br>- Análise e engenharia de dados hospitalares<br>- Desenvolvimento de consultas SQL em bancos Oracle (DBAMV)<br>- Construção de dashboards e indicadores em Power BI<br>- Automação de processos com Power Automate<br>- Integração e tratamento de dados de múltiplas fontes<br>- Estruturação de Data Warehouse e governança de dados<br><br>🚀 Interessado em temas como:<br>- Data Analytics<br>- Data Engineering<br>- Governança de Dados<br>- Automação de Processos<br>- Inteligência aplicada à saúde<br><br>📊 Sempre buscando transformar dados em informações estratégicas para melhorar a gestão e a qualidade dos serviços de saúde.
+💻 **Analista de Dados com foco em saúde e gestão hospitalar**
 
+Atuo no desenvolvimento de **soluções de dados para apoio à tomada de decisão em ambientes hospitalares**, trabalhando com dados clínicos, assistenciais e administrativos.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheusleite1811/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheus.leite1811@gmail.com) 
+Tenho experiência em **modelagem de dados, desenvolvimento de consultas SQL complexas, construção de dashboards e automação de processos** voltados para gestão hospitalar.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Matheus&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Matheus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🔎 **Principais áreas de atuação:**
+
+- Análise e engenharia de dados hospitalares  
+- Desenvolvimento de consultas SQL em bancos **Oracle (DBAMV)**  
+- Construção de dashboards e indicadores em **Power BI**  
+- Automação de processos com **Power Automate**  
+- Integração e tratamento de dados de múltiplas fontes  
+- Estruturação de **Data Warehouse e governança de dados**
+
+🚀 **Interesses**
+
+- Data Analytics  
+- Data Engineering  
+- Governança de Dados  
+- Automação de Processos  
+- Inteligência aplicada à saúde  
+
+📊 **Objetivo:** transformar dados em **informações estratégicas para melhorar a gestão e a qualidade dos serviços de saúde**.
+
+---
+
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusleite1811/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheus.leite1811@gmail.com)
+
+---
+# 💫 About Me:
+💻 **Analista de Dados com foco em saúde e gestão hospitalar**
+
+Atuo no desenvolvimento de **soluções de dados para apoio à tomada de decisão em ambientes hospitalares**, trabalhando com dados clínicos, assistenciais e administrativos.
+
+Tenho experiência em **modelagem de dados, desenvolvimento de consultas SQL complexas, construção de dashboards e automação de processos** voltados para gestão hospitalar.
+
+🔎 **Principais áreas de atuação:**
+
+- Análise e engenharia de dados hospitalares  
+- Desenvolvimento de consultas SQL em bancos **Oracle (DBAMV)**  
+- Construção de dashboards e indicadores em **Power BI**  
+- Automação de processos com **Power Automate**  
+- Integração e tratamento de dados de múltiplas fontes  
+- Estruturação de **Data Warehouse e governança de dados**
+
+🚀 **Interesses**
+
+- Data Analytics  
+- Data Engineering  
+- Governança de Dados  
+- Automação de Processos  
+- Inteligência aplicada à saúde  
+
+📊 **Objetivo:** transformar dados em **informações estratégicas para melhorar a gestão e a qualidade dos serviços de saúde**.
+
+---
+
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusleite1811/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheus.leite1811@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+### Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Data Engineering
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=dark&hide_border=false&include_all_commits=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=dark&hide_border=false&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=SEU_USUARIO&theme=dark&hide_border=false)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Matheus&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Matheus&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Matheus
+![](https://visitcount.itsvg.in/api?id=MatheusLeite&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=MatheusLeite&icon=0&color=0)
