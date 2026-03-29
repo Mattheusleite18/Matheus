@@ -99,13 +99,13 @@ Experiência com dados de sistemas hospitalares como **DBAMV**, incluindo:
 
 # 📈 Activity Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO\&theme=github-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Mattheusleite18\&theme=github-dark)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mattheusleite18\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
 ---
 
